@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
+//This class was written with the help of the youtube video https://www.youtube.com/watch?v=1UsuZsaUUng&t=92s
 public class GeneratedMesh 
 {
     List<Vector3> vertices          = new List<Vector3>();
